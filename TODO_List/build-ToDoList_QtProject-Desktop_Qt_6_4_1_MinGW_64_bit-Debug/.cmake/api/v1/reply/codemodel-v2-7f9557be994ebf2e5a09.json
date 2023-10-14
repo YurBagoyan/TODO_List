@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e24b534460c37e3a1925.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ToDoList",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ToDoList::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ToDoList-Debug-42c81f726fdf650185fb.json",
+					"name" : "ToDoList",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ToDoList_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ToDoList_autogen-Debug-19c72fa670e24aafa6e9.json",
+					"name" : "ToDoList_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ToDoList_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ToDoList_autogen_timestamp_deps-Debug-1673e89bbc0212e98f62.json",
+					"name" : "ToDoList_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/yurba/Desktop/TODO_List/build-ToDoList_QtProject-Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/yurba/Desktop/TODO_List/ToDoList_QtProject"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,15 @@
+# ninja log v5
+2	867	7190058864675259	ToDoList_autogen/timestamp	a002f52e0272d51a
+2	867	7190058864675259	ToDoList_autogen/mocs_compilation.cpp	a002f52e0272d51a
+2	867	7190058864675259	Y:/Qt Projects/build-ToDoList-Desktop_Qt_6_4_1_MinGW_64_bit-Release/ToDoList_autogen/timestamp	a002f52e0272d51a
+2	867	7190058864675259	Y:/Qt Projects/build-ToDoList-Desktop_Qt_6_4_1_MinGW_64_bit-Release/ToDoList_autogen/mocs_compilation.cpp	a002f52e0272d51a
+868	917	7190058866945262	ToDoList_autogen/EWIEGA46WW/qrc_Icons.cpp	1e07128bb1277480
+868	917	7190058866945262	Y:/Qt Projects/build-ToDoList-Desktop_Qt_6_4_1_MinGW_64_bit-Release/ToDoList_autogen/EWIEGA46WW/qrc_Icons.cpp	1e07128bb1277480
+938	1063	7190058868345268	CMakeFiles/ToDoList.dir/ToDoList_autogen/EWIEGA46WW/qrc_Icons.cpp.obj	a6aabb5a7638590b
+920	2937	7190058887154616	CMakeFiles/ToDoList.dir/main.cpp.obj	a4d6ad06757f32b6
+928	2944	7190058887244618	CMakeFiles/ToDoList.dir/calendarwidget.cpp.obj	1f433c2de2a7b1b4
+917	3020	7190058887988198	CMakeFiles/ToDoList.dir/ToDoList_autogen/mocs_compilation.cpp.obj	bca5e1d5dde5cd52
+935	3159	7190058889386802	CMakeFiles/ToDoList.dir/tasklistwidget.cpp.obj	167688afa9f9738d
+932	3355	7190058891346132	CMakeFiles/ToDoList.dir/taskitemwidget.cpp.obj	3703e154075aa072
+924	3641	7190058894208156	CMakeFiles/ToDoList.dir/mainwindow.cpp.obj	604cf419c3ad7f2e
+3642	3797	7190058895718169	ToDoList.exe	2c56f14e2cc65828

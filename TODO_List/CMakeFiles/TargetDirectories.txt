@@ -1,0 +1,9 @@
+Y:/Qt Projects/build-ToDoList-Desktop_Qt_6_4_1_MinGW_64_bit-Release/CMakeFiles/ToDoList.dir
+Y:/Qt Projects/build-ToDoList-Desktop_Qt_6_4_1_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+Y:/Qt Projects/build-ToDoList-Desktop_Qt_6_4_1_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+Y:/Qt Projects/build-ToDoList-Desktop_Qt_6_4_1_MinGW_64_bit-Release/CMakeFiles/list_install_components.dir
+Y:/Qt Projects/build-ToDoList-Desktop_Qt_6_4_1_MinGW_64_bit-Release/CMakeFiles/install.dir
+Y:/Qt Projects/build-ToDoList-Desktop_Qt_6_4_1_MinGW_64_bit-Release/CMakeFiles/install/local.dir
+Y:/Qt Projects/build-ToDoList-Desktop_Qt_6_4_1_MinGW_64_bit-Release/CMakeFiles/install/strip.dir
+Y:/Qt Projects/build-ToDoList-Desktop_Qt_6_4_1_MinGW_64_bit-Release/CMakeFiles/ToDoList_autogen_timestamp_deps.dir
+Y:/Qt Projects/build-ToDoList-Desktop_Qt_6_4_1_MinGW_64_bit-Release/CMakeFiles/ToDoList_autogen.dir

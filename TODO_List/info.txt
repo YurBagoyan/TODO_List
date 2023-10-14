@@ -1,0 +1,45 @@
+8: Not completed
+Pay Bills
+31.10.2023
+Description: Settle outstanding bills, including rent, utilities, and credit card payments.
+
+7: Not completed
+ Plan Weekend Getaway
+23.10.2023
+Research and plan a short vacation for the upcoming weekend.
+
+6: Not completed
+Grocery Shopping
+21.10.2023
+Buy essential groceries, including fruits, vegetables, and household items.
+
+5: Not completed
+Exercise
+21.10.2023
+Hit the gym or go for a run to stay active and healthy.
+
+4: Not completed
+Organize Closet
+20.10.2023
+Sort and declutter your wardrobe, donating or discarding items you no longer need.
+
+3: Not completed
+Complete Project Report
+16.10.2023
+Finish writing and editing the project report for the upcoming deadline.
+
+2: Not completed
+Attend Team Meeting
+16.10.2023
+Participate in the team meeting at work and contribute to the discussion.
+
+1: Completed
+Read Chapter 3
+14.10.2023
+Read the third chapter of the book you're currently reading.
+
+0: Completed
+Clean Garage
+11.10.2023
+Organize and clean out the garage, getting rid of unnecessary items.
+

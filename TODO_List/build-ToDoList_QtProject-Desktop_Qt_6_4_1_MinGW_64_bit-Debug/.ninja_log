@@ -1,0 +1,15 @@
+# ninja log v5
+2	1597	7190136301762785	ToDoList_autogen/timestamp	e334c7ff46bb061d
+2	1597	7190136301762785	ToDoList_autogen/mocs_compilation.cpp	e334c7ff46bb061d
+2	1597	7190136301762785	C:/Users/yurba/Desktop/TODO_List/build-ToDoList_QtProject-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ToDoList_autogen/timestamp	e334c7ff46bb061d
+2	1597	7190136301762785	C:/Users/yurba/Desktop/TODO_List/build-ToDoList_QtProject-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ToDoList_autogen/mocs_compilation.cpp	e334c7ff46bb061d
+1598	1665	7190136304767983	ToDoList_autogen/EWIEGA46WW/qrc_Icons.cpp	fc32e40fc618479
+1598	1665	7190136304767983	C:/Users/yurba/Desktop/TODO_List/build-ToDoList_QtProject-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ToDoList_autogen/EWIEGA46WW/qrc_Icons.cpp	fc32e40fc618479
+1675	2100	7190136308510091	CMakeFiles/ToDoList.dir/ToDoList_autogen/EWIEGA46WW/qrc_Icons.cpp.obj	9b1ba00aa321eb61
+1666	11478	7190136402126189	CMakeFiles/ToDoList.dir/ToDoList_autogen/mocs_compilation.cpp.obj	f7018a76a42080a
+1667	11511	7190136402442814	CMakeFiles/ToDoList.dir/main.cpp.obj	e9f790491871a91
+1671	11543	7190136403599047	CMakeFiles/ToDoList.dir/calendarwidget.cpp.obj	f2347de286593729
+1673	11758	7190136405617013	CMakeFiles/ToDoList.dir/taskitemwidget.cpp.obj	f29f8b6543765864
+2101	11809	7190136406194503	CMakeFiles/ToDoList.dir/tasklistwidget.cpp.obj	fd682f791c6458d4
+1669	11945	7190136407635762	CMakeFiles/ToDoList.dir/mainwindow.cpp.obj	fd6c84c5b2968fc0
+11946	12491	7190136412981488	ToDoList.exe	8bf96b2f1b4082ce

@@ -1,0 +1,27 @@
+{
+	"BUILD_DIR" : "Y:/Qt Projects/build-ToDoList-Desktop_Qt_6_4_1_MinGW_64_bit-Release/ToDoList_autogen",
+	"CMAKE_BINARY_DIR" : "Y:/Qt Projects/build-ToDoList-Desktop_Qt_6_4_1_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "Y:/Qt Projects/build-ToDoList-Desktop_Qt_6_4_1_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "Y:/Qt Projects/ToDoList",
+	"CMAKE_SOURCE_DIR" : "Y:/Qt Projects/ToDoList",
+	"INCLUDE_DIR" : "Y:/Qt Projects/build-ToDoList-Desktop_Qt_6_4_1_MinGW_64_bit-Release/ToDoList_autogen/include",
+	"INPUTS" : 
+	[
+		"Y:/Qt Projects/ToDoList/Icons/TODO_List_Icon.ico",
+		"Y:/Qt Projects/ToDoList/Icons/Edit.ico",
+		"Y:/Qt Projects/ToDoList/Icons/Trash.ico",
+		"Y:/Qt Projects/ToDoList/Icons/TODO_List_Icon.png",
+		"Y:/Qt Projects/ToDoList/Icons/rightArrow.png",
+		"Y:/Qt Projects/ToDoList/Icons/leftArrow.png"
+	],
+	"LOCK_FILE" : "Y:/Qt Projects/build-ToDoList-Desktop_Qt_6_4_1_MinGW_64_bit-Release/CMakeFiles/ToDoList_autogen.dir/AutoRcc_Icons_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "Icons" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Icons.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt_6/6.4.1/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "Y:/Qt Projects/build-ToDoList-Desktop_Qt_6_4_1_MinGW_64_bit-Release/CMakeFiles/ToDoList_autogen.dir/AutoRcc_Icons_EWIEGA46WW_Used.txt",
+	"SOURCE" : "Y:/Qt Projects/ToDoList/Icons.qrc",
+	"VERBOSITY" : 0
+}

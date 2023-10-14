@@ -1,0 +1,27 @@
+{
+	"BUILD_DIR" : "C:/Users/yurba/Desktop/TODO_List/build-ToDoList_QtProject-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ToDoList_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/yurba/Desktop/TODO_List/build-ToDoList_QtProject-Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/yurba/Desktop/TODO_List/build-ToDoList_QtProject-Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/yurba/Desktop/TODO_List/ToDoList_QtProject",
+	"CMAKE_SOURCE_DIR" : "C:/Users/yurba/Desktop/TODO_List/ToDoList_QtProject",
+	"INCLUDE_DIR" : "C:/Users/yurba/Desktop/TODO_List/build-ToDoList_QtProject-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ToDoList_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/yurba/Desktop/TODO_List/ToDoList_QtProject/Icons/TODO_List_Icon.ico",
+		"C:/Users/yurba/Desktop/TODO_List/ToDoList_QtProject/Icons/Edit.ico",
+		"C:/Users/yurba/Desktop/TODO_List/ToDoList_QtProject/Icons/Trash.ico",
+		"C:/Users/yurba/Desktop/TODO_List/ToDoList_QtProject/Icons/TODO_List_Icon.png",
+		"C:/Users/yurba/Desktop/TODO_List/ToDoList_QtProject/Icons/rightArrow.png",
+		"C:/Users/yurba/Desktop/TODO_List/ToDoList_QtProject/Icons/leftArrow.png"
+	],
+	"LOCK_FILE" : "C:/Users/yurba/Desktop/TODO_List/build-ToDoList_QtProject-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/ToDoList_autogen.dir/AutoRcc_Icons_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "Icons" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Icons.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt_6/6.4.1/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/yurba/Desktop/TODO_List/build-ToDoList_QtProject-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/ToDoList_autogen.dir/AutoRcc_Icons_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/yurba/Desktop/TODO_List/ToDoList_QtProject/Icons.qrc",
+	"VERBOSITY" : 0
+}
